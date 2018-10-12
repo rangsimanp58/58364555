@@ -3,5 +3,5 @@ services:
   myapp:
     image: rangsiman/rangsiman-58364555
     ports:
-      - "8031:3000"
+      - "8031:8000"
     command: "npm start"
